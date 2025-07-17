@@ -1,0 +1,18 @@
+{
+	"name": "TDI_Harmless_Bunnies",
+	"description": "This adds a chance (about 10%) of any given rabbit spawns being aggressive nasty things.\n\nThis adds to the weighted spawns for wildlife_rabbit(s).   Total weighting on vanilla is 100, this adds a 10 for the weak harmless bunnies, 5 for the strong ones, and 2 for the scarey boss rabbits.  So, the odds are out of 117, instead of neat percentages.\nActual direct spawn names for admins, Wildlife_Rabbit_Harmless, Wabbit, and WabbitBoss",
+	"changeNote": "Added back the completely forgotten Stat modifiers for the wabbits.  Appologies to anyone who fought the 1hp versions and get a shock when fighting the revised editions.",
+	"author": "",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 2507171,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "3527615831",
+	"steamTestLivePublishedFileId": "",
+	"steamVisibility": 0,
+	"folderName": "TDI_Harmless_Bunnies",
+	"revisionNumber": 1461964,
+	"snapshotId": 43964,
+	"fileSize": 1117913088
+}
