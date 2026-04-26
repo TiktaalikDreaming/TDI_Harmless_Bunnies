@@ -1,18 +1,18 @@
 {
 	"name": "TDI_Harmless_Bunnies",
 	"description": "This adds a chance (about 10%) of any given rabbit spawns being aggressive nasty things.\n\nThis adds to the weighted spawns for wildlife_rabbit(s).   Total weighting on vanilla is 100, this adds a 10 for the weak harmless bunnies, 5 for the strong ones, and 2 for the scarey boss rabbits.  So, the odds are out of 117, instead of neat percentages.\nActual direct spawn names for admins, Wildlife_Rabbit_Harmless, Wabbit, and WabbitBoss\n\nNote: This is a subset of my RP Assets mod and there's no point in having both installed.\n\nhttps://discord.gg/h45bTeqNRs\n",
-	"changeNote": "ReRecompile - Checked, and recompiling added updated dependencies on the NPC blueprints, so it was possibly not using the updated NPC base blueprints.",
+	"changeNote": "update for April 2026 Devkit",
 	"author": "",
 	"authorUrl": "",
 	"versionMajor": 1,
 	"versionMinor": 0,
-	"versionBuild": 2601270,
+	"versionBuild": 2604100,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "3527615831",
 	"steamTestLivePublishedFileId": "",
 	"steamVisibility": 0,
 	"folderName": "TDI_Harmless_Bunnies",
-	"revisionNumber": 1755779,
-	"snapshotId": 44630,
+	"revisionNumber": 1891197,
+	"snapshotId": 44838,
 	"fileSize": 1117913088
 }
